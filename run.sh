@@ -1,2 +1,3 @@
 #!/bin/bash
-sh java -jar target/snakegame.jar
+mvn clean package
+java -jar target/snakegame.jar
