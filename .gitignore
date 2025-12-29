@@ -1,0 +1,5 @@
+# highscore file
+src/main/resources/highscore/highscore.txt
+
+# target directory
+target/
